@@ -12,7 +12,7 @@ class Student:
 
 print(Student.count)
 student = Student("Vitalik", 170)
-student.print()
+
 print(student)
 
 #student = Student(height=160)
